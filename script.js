@@ -79,8 +79,6 @@ class Player {
 
     // Add hpAmount to players health
 
-    //  Update the game and DOM with updateGame()
-
     //  Return a message of 'player name heals for hpAmount HP'
 
   }
